@@ -1,6 +1,6 @@
 # Mail Inbox Tool
 
-A simple workflow for processing scanned mail. You drop PDFs from the SmartScan app on your phone into `Unsorted/`, and Claude (in Cowork) processes them — extracts text, identifies sender/date/document type, proposes a clean filename and destination folder, and (after you approve) files them away.
+A simple workflow for processing scanned mail. You drop PDFs from the SmartScan app on your phone into `Unsorted/`(OneDrive-TheMobilityHouse/USA/Business Operations/Mail Inbox), and Claude (in Cowork) processes them — extracts text, identifies sender/date/document type, proposes a clean filename and destination folder, and (after you approve) files them away.
 
 ## Folder layout
 
